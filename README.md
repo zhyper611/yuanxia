@@ -6,7 +6,7 @@
 
 ## 下载与安装
 
-在此仓库的 **Releases** 中下载最新版的 `原匣_版本号_x64-setup.exe`，双击安装后从桌面打开“原匣”。只需安装包，无需下载仓库 ZIP、Node.js 或 Rust。
+在此仓库的 **Releases** 中下载最新版的 `yuanxia_版本号_x64-setup.exe`，双击安装后从桌面打开“原匣”。只需安装包，无需下载仓库 ZIP、Node.js 或 Rust。
 
 - 支持 Windows 10/11 的 x64 系统。
 - 首次安装需要 Microsoft Edge WebView2 Runtime；缺少时安装器会联网下载，之后各工具可离线使用。
