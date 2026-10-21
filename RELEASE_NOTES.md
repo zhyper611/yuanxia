@@ -11,6 +11,6 @@
 - 配置自动保存；历史包含当次结果和详情，支持复制、删除与 JSON 备份。
 - 修复结束计时退出后错误恢复、超长转盘选项保存失败，以及异常备份导致启动失败的问题。
 
-下载资产中的 `原匣_0.1.1_x64-setup.exe` 即可安装。`SHA256SUMS.txt` 用于核验文件，`THIRD-PARTY-NOTICES.txt` 为第三方许可清单；`latest.json` 和 `.sig` 供客户端自动更新使用，无需手动打开。
+下载资产中的 `yuanxia_0.1.1_x64-setup.exe` 即可安装。`SHA256SUMS.txt` 用于核验文件，`THIRD-PARTY-NOTICES.txt` 为第三方许可清单；`latest.json` 和 `.sig` 供客户端自动更新使用，无需手动打开。
 
 v0.1.0 用户需手动安装一次本版本。更新签名不等于 Windows 发布者签名，安装包尚未做 Windows 代码签名。首次安装缺少 WebView2 Runtime 时需要联网下载。
